@@ -1,0 +1,2 @@
+youtube,https://www.youtube.comhttps://www.youtube.com
+whatsapp,https://web.whatsapp.com

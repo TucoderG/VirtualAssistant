@@ -1,0 +1,5 @@
+telegram,C:\Users\Educa Informatica\AppData\Roaming\Telegram Desktop\Telegram.exe
+lol,LoL.lnk
+opera, opera.exe
+minecraft,TLauncher.lnk
+discord,Discord.lnk
